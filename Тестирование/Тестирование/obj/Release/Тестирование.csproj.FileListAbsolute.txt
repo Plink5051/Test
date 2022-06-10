@@ -1,0 +1,9 @@
+C:\Users\Alf9296\Desktop\Тестирование\Тестирование\bin\Release\Тестирование.exe.config
+C:\Users\Alf9296\Desktop\Тестирование\Тестирование\bin\Release\Тестирование.exe
+C:\Users\Alf9296\Desktop\Тестирование\Тестирование\bin\Release\Тестирование.pdb
+C:\Users\Alf9296\Desktop\Тестирование\Тестирование\obj\Release\Тестирование.csprojResolveAssemblyReference.cache
+C:\Users\Alf9296\Desktop\Тестирование\Тестирование\obj\Release\Тестирование.Form1.resources
+C:\Users\Alf9296\Desktop\Тестирование\Тестирование\obj\Release\Тестирование.Properties.Resources.resources
+C:\Users\Alf9296\Desktop\Тестирование\Тестирование\obj\Release\Тестирование.csproj.GenerateResource.Cache
+C:\Users\Alf9296\Desktop\Тестирование\Тестирование\obj\Release\Тестирование.exe
+C:\Users\Alf9296\Desktop\Тестирование\Тестирование\obj\Release\Тестирование.pdb
